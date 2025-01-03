@@ -22,4 +22,10 @@ html {
 
 h1 {
   font-family: "Russo One", sans-serif;
+  color: #0056a6;
+}
+
+p {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
 }
